@@ -1,4 +1,4 @@
-# Taxi Fare Guru – Total Amount Prediction
+# Taxi Fare Predictor
 
 This repository contains my solution for the Kaggle competition:
 **Taxi Fare Guru: Total Amount Prediction Challenge**
